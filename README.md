@@ -69,4 +69,6 @@
   For any questions, please contact me with the information below:
  
   GitHub: [@nellirism](https://api.github.com/users/nellirism)
+
+  <img width="408" alt="Screen Shot 2020-10-21 at 11 50 18 PM" src="https://user-images.githubusercontent.com/71202250/119280708-6c13ab80-bbe7-11eb-94ac-a99e2bb5476f.JPG">
   
