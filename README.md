@@ -46,9 +46,9 @@
   WHEN I click on the links in the Table of Contents, 
   THEN I am taken to the corresponding section of the README.
   
-  ## Usage 
+  ## How to Use the App 
   
-  [![usage video](profreadme.mp4)](https://drive.google.com/file/d/1l2StwO_KAGhP7WGbb6CVW9Cs-lNTaZAJ/view?usp=sharing "Click Me!")<br><br>
+  [![Demo Video](profreadme.mp4)](https://drive.google.com/file/d/1l2StwO_KAGhP7WGbb6CVW9Cs-lNTaZAJ/view?usp=sharing "Click Me!")<br><br>
   The professional README Generator is a command-line application that dynamically generates a professional README.md from a user's input using the [Inquirer package](https://www.npmjs.com/package/inquirer). Review the [Good README guide](../../01-HTML-Git-CSS/04-Important/Good-README-Guide/README.md) as a reminder of everything that a quality, professional README contains. The application will be invoked with the following command: node index.
   
   ## Contributing
